@@ -15,8 +15,8 @@ J'ai créé deux formulaires distincts pour la connexion et l'inscription, chacu
 Fonctionnalités Supplémentaires :
 J'ai pensé à l'expérience utilisateur en incluant des options telles que "Se souvenir de moi" et "Mot de passe oublié ?". J'ai également ajouté des options de connexion avec des icônes pour Google et Facebook.
 ------------------------------
-Image et Texte en Vedette :
-Pour rendre la page plus attrayante, j'ai ajouté une image et un texte en vedette sur le côté droit. Cela fournit des informations supplémentaires sur mon entreprise Future Digital.
+Image et Texte  :
+Pour rendre la page plus attrayante, j'ai ajouté une image et un texte sur le côté droit. Cela fournit des informations supplémentaires sur mon entreprise Future Digital.
 ------------------------------
 Design Réactif :
 J'ai utilisé des classes Bootstrap pour m'assurer que mon projet est réactif et fonctionne bien sur différents appareils, ce qui est important pour atteindre un public plus large.
